@@ -1,2 +1,0 @@
-# implementing-a-community-garden-work-submission
-The Implementing a Community Garden project aims to establish a sustainable community garden that fosters environmental stewardship, enhances community relationships, and promotes healthy living. This initiative will involve local residents, schools, and organizations in the planning, creation, and ongoing maintenance of the garden, creating a shared space for education, collaboration, and enjoyment.
